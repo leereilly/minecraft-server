@@ -1,0 +1,68 @@
+[17:46:47] [Server thread/INFO]: Starting minecraft server version 1.8
+[17:46:47] [Server thread/INFO]: Loading properties
+[17:46:47] [Server thread/INFO]: Default game type: SURVIVAL
+[17:46:47] [Server thread/INFO]: Generating keypair
+[17:46:48] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:46:48] [Server thread/WARN]: Failed to load user banlist: 
+java.io.FileNotFoundException: banned-players.json (No such file or directory)
+	at java.io.FileInputStream.open(Native Method) ~[?:1.7.0_67]
+	at java.io.FileInputStream.<init>(FileInputStream.java:146) ~[?:1.7.0_67]
+	at com.google.common.io.Files.newReader(Files.java:86) ~[minecraft_server.1.8%20(1).jar:?]
+	at ss.g(SourceFile:124) ~[minecraft_server.1.8%20(1).jar:?]
+	at pn.z(SourceFile:99) [minecraft_server.1.8%20(1).jar:?]
+	at pn.<init>(SourceFile:25) [minecraft_server.1.8%20(1).jar:?]
+	at po.i(SourceFile:171) [minecraft_server.1.8%20(1).jar:?]
+	at net.minecraft.server.MinecraftServer.run(SourceFile:417) [minecraft_server.1.8%20(1).jar:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.7.0_67]
+[17:46:48] [Server thread/WARN]: Failed to load ip banlist: 
+java.io.FileNotFoundException: banned-ips.json (No such file or directory)
+	at java.io.FileInputStream.open(Native Method) ~[?:1.7.0_67]
+	at java.io.FileInputStream.<init>(FileInputStream.java:146) ~[?:1.7.0_67]
+	at com.google.common.io.Files.newReader(Files.java:86) ~[minecraft_server.1.8%20(1).jar:?]
+	at ss.g(SourceFile:124) ~[minecraft_server.1.8%20(1).jar:?]
+	at pn.y(SourceFile:91) [minecraft_server.1.8%20(1).jar:?]
+	at pn.<init>(SourceFile:27) [minecraft_server.1.8%20(1).jar:?]
+	at po.i(SourceFile:171) [minecraft_server.1.8%20(1).jar:?]
+	at net.minecraft.server.MinecraftServer.run(SourceFile:417) [minecraft_server.1.8%20(1).jar:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.7.0_67]
+[17:46:48] [Server thread/WARN]: Failed to load operators list: 
+java.io.FileNotFoundException: ops.json (No such file or directory)
+	at java.io.FileInputStream.open(Native Method) ~[?:1.7.0_67]
+	at java.io.FileInputStream.<init>(FileInputStream.java:146) ~[?:1.7.0_67]
+	at com.google.common.io.Files.newReader(Files.java:86) ~[minecraft_server.1.8%20(1).jar:?]
+	at ss.g(SourceFile:124) ~[minecraft_server.1.8%20(1).jar:?]
+	at pn.A(SourceFile:107) [minecraft_server.1.8%20(1).jar:?]
+	at pn.<init>(SourceFile:29) [minecraft_server.1.8%20(1).jar:?]
+	at po.i(SourceFile:171) [minecraft_server.1.8%20(1).jar:?]
+	at net.minecraft.server.MinecraftServer.run(SourceFile:417) [minecraft_server.1.8%20(1).jar:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.7.0_67]
+[17:46:48] [Server thread/WARN]: Failed to load white-list: 
+java.io.FileNotFoundException: whitelist.json (No such file or directory)
+	at java.io.FileInputStream.open(Native Method) ~[?:1.7.0_67]
+	at java.io.FileInputStream.<init>(FileInputStream.java:146) ~[?:1.7.0_67]
+	at com.google.common.io.Files.newReader(Files.java:86) ~[minecraft_server.1.8%20(1).jar:?]
+	at ss.g(SourceFile:124) ~[minecraft_server.1.8%20(1).jar:?]
+	at pn.C(SourceFile:123) [minecraft_server.1.8%20(1).jar:?]
+	at pn.<init>(SourceFile:30) [minecraft_server.1.8%20(1).jar:?]
+	at po.i(SourceFile:171) [minecraft_server.1.8%20(1).jar:?]
+	at net.minecraft.server.MinecraftServer.run(SourceFile:417) [minecraft_server.1.8%20(1).jar:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.7.0_67]
+[17:46:48] [Server thread/INFO]: Preparing level "world"
+[17:46:48] [Server thread/INFO]: Preparing start region for level 0
+[17:46:49] [Server thread/INFO]: Preparing spawn area: 10%
+[17:46:50] [Server thread/INFO]: Preparing spawn area: 27%
+[17:46:51] [Server thread/INFO]: Preparing spawn area: 43%
+[17:46:52] [Server thread/INFO]: Preparing spawn area: 60%
+[17:46:53] [Server thread/INFO]: Preparing spawn area: 76%
+[17:46:54] [Server thread/INFO]: Preparing spawn area: 94%
+[17:46:54] [Server thread/INFO]: Done (6.693s)! For help, type "help" or "?"
+[17:47:39] [Server thread/INFO]: Stopping server
+[17:47:39] [Server thread/INFO]: Saving players
+[17:47:39] [Server thread/INFO]: Saving worlds
+[17:47:39] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[17:47:39] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[17:47:39] [Server thread/INFO]: Saving chunks for level 'world'/The End
+[17:47:40] [Server Shutdown Thread/INFO]: Stopping server
+[17:47:40] [Server Shutdown Thread/INFO]: Saving players
+[17:47:40] [Server Shutdown Thread/INFO]: Saving worlds
+[17:47:40] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/Overworld
