@@ -1,6 +1,6 @@
-#### Minecraft Server
+#### Ally's minecraft server.
 
-Ally's minecraft server.
+<img src="http://i.imgur.com/dO6ZYyG.png" width="100%">
 
 ```
 git clone https://github.com/leereilly/minecraft-server
